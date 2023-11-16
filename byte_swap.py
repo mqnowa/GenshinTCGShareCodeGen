@@ -1,0 +1,4 @@
+a = 0x5A
+
+print(0xA5)
+print(a // 16 + )
